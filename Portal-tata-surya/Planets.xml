@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solarsystem>
+
+<planet>
+  <name>Bumi 🌍</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg</image>
+  <description>
+    Bumi adalah planet ketiga dari Matahari dan satu-satunya planet yang diketahui mendukung kehidupan.
+    Atmosfernya kaya oksigen dan memiliki air dalam bentuk cair.
+    Permukaannya terdiri dari daratan, laut, dan ekosistem kompleks.
+  </description>
+</planet>
+
+<planet>
+  <name>Mars 🔴</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg</image>
+  <description>
+    Mars dikenal sebagai planet merah. Planet ini memiliki gunung Olympus Mons,
+    gunung tertinggi di tata surya, serta kemungkinan pernah memiliki air.
+  </description>
+</planet>
+
+<planet>
+  <name>Jupiter 🟠</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg</image>
+  <description>
+    Jupiter adalah planet terbesar. Atmosfernya penuh badai raksasa termasuk Great Red Spot.
+    Planet ini memiliki puluhan satelit alami.
+  </description>
+</planet>
+
+<planet>
+  <name>Saturn 🪐</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg</image>
+  <description>
+    Saturn terkenal dengan cincin indahnya. Cincin ini terdiri dari es dan batuan kecil
+    yang mengorbit planet.
+  </description>
+</planet>
+
+<planet>
+  <name>Merkurius ☀️</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercury_in_true_color.jpg</image>
+  <description>
+    Merkurius adalah planet terdekat dari Matahari dengan suhu ekstrem antara siang dan malam.
+  </description>
+</planet>
+
+<planet>
+  <name>Venus 🔥</name>
+  <image>https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg</image>
+  <description>
+    Venus adalah planet terpanas karena efek rumah kaca yang sangat kuat.
+  </description>
+</planet>
+
+</solarsystem>
